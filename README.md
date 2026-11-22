@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a7fcfc0c-852b-4c58-9ecb-a1e5f45990a1" align="right" width="120" alt="Youssef Ragab" />
+<img src="https://github.com/user-attachments/assets/a7fcfc0c-852b-4c58-9ecb-a1e5f45990a1" align="right" width="120" alt="image" />
 
 # Hi There, I'm Youssef<br>Ragab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand" />
 
@@ -27,4 +27,3 @@ I'm a software developer with a strong passion for creating visually appealing a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far3an&layout=compact)](https://github.com/far3an)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=far3an&style=for-the-badge)
-
