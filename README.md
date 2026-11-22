@@ -1,6 +1,6 @@
 <img src="IMG_7783.png" align="right" width="90" alt="Youssef Ragab" />
 
-# Hi There, I'm Youssef Ragab 👋
+# Hi There, I'm Youssef<br>Ragab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand" />
 
 I'm a software developer who builds clean, responsive, and user-friendly websites.
 
