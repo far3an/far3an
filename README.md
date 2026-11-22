@@ -1,14 +1,16 @@
-<img src="IMG_7783.png" align="right" width="90" alt="Youssef Ragab" />
+<img src="https://github.com/user-attachments/assets/a7fcfc0c-852b-4c58-9ecb-a1e5f45990a1" align="right" width="120" alt="Youssef Ragab" />
 
 # Hi There, I'm Youssef<br>Ragab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand" />
 
-I'm a software developer who builds clean, responsive, and user-friendly websites.
+I'm a software developer with a strong passion for creating visually appealing and user-friendly websites.
 
-- 👨‍💻 Currently working with **JavaScript & React**
-- 📚 Exploring **Frontend and Backend** technologies
-- 🎯 Goal: build high-quality web products
+- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
 
-### 📫 Social links
+- 📚 I’m currently learning about Frontend and Backend technologies.
+
+- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+
+- 📫 Social links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
@@ -26,4 +28,3 @@ I'm a software developer who builds clean, responsive, and user-friendly website
 
 ![Profile Views](https://komarev.com/ghpvc/?username=far3an&style=for-the-badge)
 
-<sub>Avatar by Freepik</sub>
