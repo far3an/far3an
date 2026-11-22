@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi There, I'm Youssef Ragab 👋
 
-<!--
-**far3an/far3an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who builds clean, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+- 👨‍💻 Currently working with **JavaScript & React**
+- 📚 Exploring **Frontend and Backend** technologies
+- 🎯 Goal: build high-quality web products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Social links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
+
+### 🛠 Technologies that I work with
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far3an&layout=compact)](https://github.com/far3an)
+
+
