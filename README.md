@@ -22,4 +22,8 @@ I'm a software developer who builds clean, responsive, and user-friendly website
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-lang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far3an&layout=compact)](https://github.com/far3an)
+
+![Profile Views](https://komarev.com/ghpvc/?username=far3an&style=for-the-badge)
+
+<sub>Avatar by Freepik</sub>
