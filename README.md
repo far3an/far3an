@@ -1,3 +1,5 @@
+<img src="IMG_7783.png" align="right" width="90" alt="Youssef Ragab" />
+
 # Hi There, I'm Youssef Ragab 👋
 
 I'm a software developer who builds clean, responsive, and user-friendly websites.
@@ -20,6 +22,4 @@ I'm a software developer who builds clean, responsive, and user-friendly website
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=far3an&layout=compact)](https://github.com/far3an)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-lang
